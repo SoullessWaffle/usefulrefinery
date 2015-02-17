@@ -4,7 +4,7 @@ Makes Starbound's refinery more useful by letting you break down clutter
 
 ## Installation
 
-1. Extract the contents of [the archive][1] to `Starbound/giraffe_storage/mods`
+1. Drop [`UsefulRefinery.modpak`][1] into `Starbound/giraffe_storage/mods`
 2. Start the game
 3. ???
 4. Profit!
