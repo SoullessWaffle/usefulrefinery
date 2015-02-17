@@ -12,14 +12,14 @@ Makes Starbound's refinery more useful by letting you break down clutter
 ## Overview
 
 Provides refinery recipes for:
-* Starter weapons for all (vanilla) races
+* Starter weapons of all (vanilla) races
 * Generated weapons (swords, guns and shields)
 * Hunting, Iron and Compound bows
 * Steel Bar
 * Core Fragment Ore
 * Dreadwing's Wreckage
 
-The mod also modifies the Refinery's description to reflect these changes.
+The mod also updates the refinery's description to reflect these changes.
 
 ## Details:
 
