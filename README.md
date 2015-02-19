@@ -21,7 +21,7 @@ Provides refinery recipes for:
 
 The mod also updates the refinery's description to reflect these changes.
 
-## Details:
+## Details
 
 | item            | pixels |
 |-----------------|--------|
